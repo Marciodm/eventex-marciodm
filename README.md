@@ -3,7 +3,7 @@
 Landing page da Eventex desenvolvida durante o WTTD 2018.
 
 
-##Technologies utilized:
+**Technologies utilized:**
 
 * Python==3.6.5
 
