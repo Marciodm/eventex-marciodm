@@ -1,4 +1,4 @@
-Eventex WTTD 2018
+# Eventex WTTD 2018
 
 Landing page da Eventex desenvolvida durante o WTTD 2018.
 
@@ -13,4 +13,4 @@ python-decouple==3.1
 pytz==2018.4
 static3==0.7.0
 gunicorn==19.8.1
-psycopg2 2.7.4
+psycopg2==2.7.4
